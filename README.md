@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ayu988
-- 👀 I’m interested in ... Python and Web Devlopment
-- 🌱 I’m currently learning ... Javascript
-- 💞️ I’m looking to collaborate on ... Web Applications
+- 👀 I’m interested in ... Python and Web Development
+- 🌱 I’m currently learning ... Data Analytics
+- 💞️ I'll be delighted to work on ... S/W Development
 - 📫 How to reach me ... drop a mail on it.ayu988@gmail.com
 
 <!---
